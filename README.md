@@ -20,7 +20,7 @@ To make greetings more **memorable, decentralized, and collectible** by combinin
 - Integrate with web UI for easy card creation and sending.
 
 ## 5. Contract Address
-`SP1234EXAMPLEADDRESS5678CRYPTOGREETINGCARDS`
+`ST52P0NFAMAM1EGRFRW9BC279A4VT2J0DEWGYXQM.crypto-greeting-cards`
 <img width="3067" height="1621" alt="Screenshot 2025-08-12 150715" src="https://github.com/user-attachments/assets/09508bd3-179d-427c-887f-fd5004428f1f" />
 
 
