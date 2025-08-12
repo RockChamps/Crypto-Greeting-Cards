@@ -21,4 +21,6 @@ To make greetings more **memorable, decentralized, and collectible** by combinin
 
 ## 5. Contract Address
 `SP1234EXAMPLEADDRESS5678CRYPTOGREETINGCARDS`
+<img width="3067" height="1621" alt="Screenshot 2025-08-12 150715" src="https://github.com/user-attachments/assets/09508bd3-179d-427c-887f-fd5004428f1f" />
+
 
